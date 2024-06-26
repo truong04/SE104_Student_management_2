@@ -91,3 +91,19 @@ C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Stu
 C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\vi-VN\WindowsFormsApp2.resources.dll
 C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\bin\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dang_nhap.resources
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.resources
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.quenmatkhau.resources
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.vi-VN.resources
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Downloads\githubse\SE104_Student_management_2\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources

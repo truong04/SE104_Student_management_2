@@ -154,7 +154,7 @@
             this.Controls.Add(this.btnDangNhap);
             this.Name = "dang_nhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ng";
+            this.Text = "Đăng nhập";
             this.Load += new System.EventHandler(this.dang_nhap_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

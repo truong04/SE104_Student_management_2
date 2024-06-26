@@ -16,22 +16,67 @@ namespace GiaoDien
 {
     public partial class Form1 : Form
     {
-        string connection = @"Data Source=LAPTOP-IBB8RS68\SQLEXPRESS;Initial Catalog=QLHS;Integrated Security=True";
+        string connection = @"Data Source=LAPTOP-P0OHVEG9;Initial Catalog=QLHSnew;Integrated Security=True;Encrypt=False";
         SqlConnection conn;
         SqlCommand cmd;
         SqlDataAdapter adt = new SqlDataAdapter();
         DataTable dt = new DataTable();
-     
+
         void load_datat()
         {
-            cmd = conn.CreateCommand();
-            cmd.CommandText = "select * from HSinh";
-            adt.SelectCommand = cmd;
-            dt.Clear();
-            adt.Fill(dt);
-            dataGridView3.DataSource = dt;
+            using (SqlCommand cmd = conn.CreateCommand())
+            {
+                cmd.CommandText = "SELECT * FROM HSinh";
+                using (SqlDataAdapter adt = new SqlDataAdapter(cmd))
+                {
+                    DataTable dtHSinh = new DataTable();
+                    adt.Fill(dtHSinh);
+                    dataGridView3.DataSource = dtHSinh;
+                }
+            }
         }
-  
+        void load_datat(SqlConnection conn)
+        {
+            using (SqlCommand cmd = conn.CreateCommand())
+            {
+                cmd.CommandText = "SELECT * FROM HSinh";
+                using (SqlDataAdapter adt = new SqlDataAdapter(cmd))
+                {
+                    DataTable dtHSinh = new DataTable();
+                    adt.Fill(dtHSinh);
+                    dataGridView3.DataSource = dtHSinh;
+                }
+            }
+        }
+
+        void load_datat2()
+        {
+            using (SqlCommand cmd = conn.CreateCommand())
+            {
+                cmd.CommandText = "SELECT * FROM Lop";
+                using (SqlDataAdapter adt = new SqlDataAdapter(cmd))
+                {
+                    DataTable dtLop = new DataTable();
+                    adt.Fill(dtLop);
+                    dtv.DataSource = dtLop;
+                }
+            }
+        }
+        void load_datat2(SqlConnection conn)
+        {
+            using (SqlCommand cmd = conn.CreateCommand())
+            {
+                cmd.CommandText = "SELECT * FROM Lop";
+                using (SqlDataAdapter adt = new SqlDataAdapter(cmd))
+                {
+                    DataTable dtLop = new DataTable();
+                    adt.Fill(dtLop);
+                    dtv.DataSource = dtLop; // Đảm bảo rằng dtv là DataGridView của bạn
+                }
+            }
+        }
+
+
         public Form1()
         {
             InitializeComponent();
@@ -40,14 +85,20 @@ namespace GiaoDien
             tabControl4.DrawItem += new DrawItemEventHandler(tabControl3_DrawItem);
             conn = new SqlConnection(connection);
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Thiết lập nguồn dữ liệu cho ComboBox giới tính
             CBOGioiTinh.DataSource = ListGioiTinh;
-            conn = new SqlConnection(connection);
-            conn.Open();
 
+            // Mở kết nối và tải dữ liệu khi form tải
+            using (conn = new SqlConnection(connection))
+            {
+                conn.Open();
+                load_datat();
+                load_datat2();
+            }
         }
+        
 
         private void hệThốngToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -260,27 +311,100 @@ namespace GiaoDien
 
         }
         modify modify = new modify();
-        private void button4_Click(object sender, EventArgs e)
+        void loaddata()
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            // Lấy giá trị từ các điều khiển
+            string Idlop = txtidlop.Text;
+            string IdGVCN = txtidGv.Text;
+            string TenLop = txtTenLop.Text;
+            string Khoi = txtkhoi.Text;
+            int siso = 0;
+
+            // Kiểm tra nhập liệu
+            if (KiemtraNhap2())
+            {
+                // Tạo kết nối cơ sở dữ liệu mới và mở kết nối
+                using (SqlConnection conn = new SqlConnection(connection))
+                {
+                    conn.Open();
+
+                    // Tạo và thực thi câu lệnh SQL để chèn dữ liệu vào bảng Lop
+                    using (SqlCommand cmd = conn.CreateCommand())
+                    {
+                        cmd.CommandText = "INSERT INTO Lop (IdLop, IdGVCN, TenLop, SiSo, Khoi) VALUES (@IdLop, @IdGVCN, @TenLop, @SiSo, @Khoi)";
+                        cmd.Parameters.AddWithValue("@IdLop", Idlop);
+                        cmd.Parameters.AddWithValue("@IdGVCN", IdGVCN);
+                        cmd.Parameters.AddWithValue("@TenLop", TenLop);
+                        cmd.Parameters.AddWithValue("@SiSo", siso);
+                        cmd.Parameters.AddWithValue("@Khoi", Khoi);
+
+                        cmd.ExecuteNonQuery();
+                        MessageBox.Show("Lớp đã được tạo");
+                    }
+
+                    // Tải lại dữ liệu
+                    load_datat2(conn);
+                }
+            }
+        }
+        private void button4_Click(object sender, EventArgs e)
+        {
             string hoten = textHoTen.Text;
-            string Id = TxBId.Text;
+            string MaLop = null; // Giá trị MaLop hiện tại là null
             string Diachi = TxbDiaChi.Text;
-            string MaLop = TxBId.Text;
+            string ID = TxBId.Text;
             string Sdt = TxbSdt.Text;
             string Stt = TxbStt.Text;
             string Gioitinh = CBOGioiTinh.SelectedItem.ToString();
             string Ngaysinh = dateTimePicker1.Value.ToShortDateString();
+
             if (KiemtraNhap())
             {
-                cmd = conn.CreateCommand();
-                cmd.CommandText = "Insert into Hsinh values('" + Id + "','" + MaLop + "','" + Sdt + "','" + hoten + "','" + Gioitinh + "','" + Ngaysinh + "','" + Diachi + "','" + Stt + "')";
-                cmd.ExecuteNonQuery();
-                MessageBox.Show("Đã tiếp nhận học sinh");
-                conn = new SqlConnection(connection);
-                conn.Open();
-                load_datat();
+                using (SqlConnection conn = new SqlConnection(connection))
+                {
+                    conn.Open();
 
+                    // Kiểm tra xem SDT có tồn tại trong bảng account hay không
+                    string checkQuery = "SELECT COUNT(*) FROM account WHERE SDT = @SDT";
+                    using (SqlCommand checkCmd = new SqlCommand(checkQuery, conn))
+                    {
+                        checkCmd.Parameters.AddWithValue("@SDT", Sdt);
+                        int count = (int)checkCmd.ExecuteScalar();
+                        if (count == 0)
+                        {
+                            // Nếu không tồn tại, chèn giá trị vào bảng account
+                            string insertAccountQuery = "INSERT INTO account (SDT) VALUES (@SDT)";
+                            using (SqlCommand insertAccountCmd = new SqlCommand(insertAccountQuery, conn))
+                            {
+                                insertAccountCmd.Parameters.AddWithValue("@SDT", Sdt);
+                                insertAccountCmd.ExecuteNonQuery();
+                            }
+                        }
+                    }
+
+                    // Chèn giá trị vào bảng Hsinh
+                    string insertHsinhQuery = "INSERT INTO Hsinh (idHocSinh, MaLop, SDT, HoVaTen, GioiTinh, NgayGioSinh, DiaChi, STT) VALUES (@Id, @MaLop, @Sdt, @hoten, @Gioitinh, @Ngaysinh, @Diachi, @Stt)";
+                    using (SqlCommand insertHsinhCmd = new SqlCommand(insertHsinhQuery, conn))
+                    {
+                        insertHsinhCmd.Parameters.AddWithValue("@Id", ID);
+                        insertHsinhCmd.Parameters.AddWithValue("@MaLop", MaLop ?? (object)DBNull.Value); // Sử dụng DBNull.Value nếu MaLop là null
+                        insertHsinhCmd.Parameters.AddWithValue("@Sdt", Sdt);
+                        insertHsinhCmd.Parameters.AddWithValue("@hoten", hoten);
+                        insertHsinhCmd.Parameters.AddWithValue("@Gioitinh", Gioitinh);
+                        insertHsinhCmd.Parameters.AddWithValue("@Ngaysinh", DateTime.Parse(Ngaysinh));
+                        insertHsinhCmd.Parameters.AddWithValue("@Diachi", Diachi);
+                        insertHsinhCmd.Parameters.AddWithValue("@Stt", Stt);
+                        insertHsinhCmd.ExecuteNonQuery();
+                    }
+
+                    MessageBox.Show("Đã tiếp nhận học sinh");
+                    load_datat(conn);
+                }
             }
         }
         bool KiemtraNhap()
@@ -327,7 +451,115 @@ namespace GiaoDien
 
         private void dataGridView4_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            int i;
+            i = dtv.CurrentRow.Index;
+            txtidlop.Text = dtv.Rows[i].Cells[0].Value.ToString();
+            txtidGv.Text = dtv.Rows[i].Cells[1].Value.ToString();
+            txtkhoi.Text = dtv.Rows[i].Cells[2].Value.ToString();
+            txtTenLop.Text = dtv.Rows[i].Cells[3].Value.ToString();
+        }
 
+        private void dataGridView3_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void tabPage6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
+        bool KiemtraNhap2()
+        {
+            if (txtidlop.Text == "")
+            {
+                MessageBox.Show("Hãy nhập lại id Lớp", "Thông báo");
+                txtidlop.Focus();
+                return false;
+            }
+            if (txtidGv.Text == "")
+            {
+                MessageBox.Show("Hãy nhập lại Id giáo viên chủ nhiệm", "Thông báo");
+                txtidGv.Focus();
+                return false;
+            }
+            if (txtkhoi.Text == "")
+            {
+                MessageBox.Show("Hãy nhập lại khối", "Thông báo");
+                txtkhoi.Focus();
+                return false;
+            }
+            if (txtTenLop.Text == "")
+            {
+                MessageBox.Show("Hãy nhập lại tên lớp", "Thông báo");
+                txtTenLop.Focus();
+                return false;
+            }
+            
+            return true;
+        }
+
+        private void dtv_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int i;
+            i = dtv.CurrentRow.Index;
+            txtidlop.Text = dtv.Rows[i].Cells[0].Value.ToString();
+            txtidGv.Text = dtv.Rows[i].Cells[1].Value.ToString();
+            txtkhoi.Text = dtv.Rows[i].Cells[2].Value.ToString();
+            txtTenLop.Text = dtv.Rows[i].Cells[3].Value.ToString();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if (KiemtraNhap2())
+            {
+                string idlop = txtidlop.Text;
+                int siso = 0;
+
+                // Tạo kết nối với cơ sở dữ liệu
+                using (SqlConnection conn = new SqlConnection(connection))
+                {
+                    conn.Open();
+                    // Tạo câu lệnh SQL để lấy giá trị siso hiện tại từ bảng Lop
+                    using (SqlCommand cmd = new SqlCommand("SELECT SiSo FROM Lop WHERE IdLop = @IdLop", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@IdLop", idlop);
+                        // Thực thi câu lệnh và lấy giá trị siso
+                        var result = cmd.ExecuteScalar();
+                        if (result != null)
+                        {
+                            siso = (int)result;
+                        }
+                    }
+                    // Tăng giá trị siso lên 1
+                    siso += 1;
+                    // Cập nhật giá trị siso mới vào bảng Lop
+                    using (SqlCommand cmd = new SqlCommand("UPDATE Lop SET SiSo = @SiSo WHERE IdLop = @IdLop", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@SiSo", siso);
+                        cmd.Parameters.AddWithValue("@IdLop", idlop);
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+                
+                Form2 f = new Form2(idlop);
+                f.ShowDialog();
+
+            }
         }
     }
     }

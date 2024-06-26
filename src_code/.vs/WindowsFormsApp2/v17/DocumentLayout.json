@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\admin\\downloads\\githubse\\se104_student_management_2\\src_code\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_P0OHVEG9/QLHSnew/True/SqlTable/dbo.HSinh.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\windowsformsapp2\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31123C3E-CDF8-44C7-84AE-90F0FF2308DC}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\ket_Noi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp2\\ket_Noi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form2.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAgwHIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:48:17.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:47:44.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AQIAAAkCAAAAAAAAAAAuwDACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:48:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ket_Noi.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\ket_Noi.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\ket_Noi.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\ket_Noi.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\ket_Noi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:46.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.HSinh [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_P0OHVEG9/QLHSnew/True/SqlTable/dbo.HSinh.sql",
+              "ToolTip": "dbo.HSinh [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T05:58:36.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dang_nhap.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\dang_nhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\dang_nhap.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\dang_nhap.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\dang_nhap.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:51:23.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "conection.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\conection.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\conection.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\conection.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\conection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:50:41.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dang_nhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\dang_nhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\dang_nhap.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\dang_nhap.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\dang_nhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:48:16.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Taikhoan.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Taikhoan.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Taikhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:48:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "quenmatkhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\quenmatkhau.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\quenmatkhau.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\quenmatkhau.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\quenmatkhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:54.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:53.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "modify.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\modify.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\modify.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\modify.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\modify.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:52.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\githubse\\SE104_Student_management_2\\src_code\\WindowsFormsApp2\\Form1.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:28.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
