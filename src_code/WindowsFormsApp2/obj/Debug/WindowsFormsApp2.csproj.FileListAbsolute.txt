@@ -1,0 +1,93 @@
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.quenmatkhau.resources
+C:\Users\admin\Documents\hk2 2023-2024\Thư mục mới\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Chuongtrinh.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.quenmatkhau.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dang_nhap.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.vi-VN.resources
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\bin\Debug\vi-VN\WindowsFormsApp2.resources.dll
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dang_nhap.resources
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.resources
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.quenmatkhau.resources
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.vi-VN.resources
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\vi-VN\WindowsFormsApp2.resources.dll
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Thư mục mới (6)\WindowsFormsApp2 (2)\WindowsFormsApp2 (1)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dangky.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dangky.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dang_nhap.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.quenmatkhau.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.vi-VN.resources
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DINH NHAT TRUONG\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\bin\Debug\vi-VN\WindowsFormsApp2.resources.dll
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dangky.resources
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dang_nhap.resources
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.resources
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.quenmatkhau.resources
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.vi-VN.resources
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\vi-VN\WindowsFormsApp2.resources.dll
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\SE\SE104_Student_management\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\bin\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dang_nhap.resources
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.resources
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.quenmatkhau.resources
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\GiaoDien.Form1.vi-VN.resources
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\vi-VN\WindowsFormsApp2.resources.dll
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DINH NHAT TRUONG\Downloads\SE104_Student_management-tiep_nhan\SE104_Student_management-tiep_nhan\src_code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
